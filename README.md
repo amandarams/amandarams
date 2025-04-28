@@ -1,7 +1,21 @@
-## Hello World! Eu sou a Amanda Rosa 👩🖐️
+# Hello World! Eu sou a Amanda Rosa 👩🖐️
 
-# 💫 Sobre mim:
-💜 Apaixonada por tecnologia e por desenvolver soluções <br>🎓 Estudando Análise e Desenvolvimento de Sistemas <br>💻 Desenvolvedora Back-end  
+## 💫 Sobre mim:
+- 💜 Apaixonada por tecnologia, dados e por transformar informações em soluções práticas.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas, com foco em análise de dados e automação de processos.
+- 📊 Trabalho com análise de dados, visualização e automação, utilizando ferramentas como Python, SQL e Power BI.
+- 💻 Com forte interesse em integração de dados, soluções de automação e desenvolvimento Back-end.
+
+## 🧠 Minhas Especialidades:
+- **Análise de Dados**: Limpeza, transformação e análise exploratória de dados.
+- **Automação de Processos**: Criar scripts para automatizar tarefas repetitivas e melhorar a eficiência.
+- **Banco de Dados**: Trabalhando com SQL, MySQL e integração de dados.
+- **Linguagens de Programação**: Python (pandas, numpy), SQL, Java, JavaScript.
+
+## 🚀 Objetivos:
+- Continuar aprimorando minhas habilidades em análise de dados e automação.
+- Contribuir para projetos de dados de código aberto e compartilhar conhecimento.
+- Aprender mais sobre técnicas avançadas de Machine Learning e Inteligência Artificial.
 
 # 📊 GitHub Stats:
 <div align="center">  
